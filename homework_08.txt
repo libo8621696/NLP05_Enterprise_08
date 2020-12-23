@@ -1,0 +1,9 @@
+一、基于模型集成代码，修改预训练模型路径和配置等，完成dureader robust项目。
+1、补充模型config及预训练模型路径部分，实现完整项目，参考第七节codes中的代码。（20'）
+
+二、简答题
+1. 简述bi-DAF输入层的构建方式：word embedding，char embedding，contextual embedding。（40'）
+
+word embedding 
+
+2. 解释BERT中的概念：mask LM，positional encoding。（40’）
